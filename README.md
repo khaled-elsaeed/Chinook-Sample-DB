@@ -1,9 +1,13 @@
-# Chnook-Sample-DB
+Project Description: Chinook Database Schema Example
+
 The Chinook Database Schema Example project provides a demonstration of a relational database schema design using the well-known "Chinook" sample database. The Chinook database is widely used for showcasing relational database concepts and is frequently utilized for testing and educational purposes.
 
-The purpose of this project is to showcase how data can be organized and related within tables, and to serve as a reference for designing a database schema. By studying the Chinook database schema, developers and database administrators can gain insights into proper schema design techniques and understand how tables can be structured and interconnected to store and retrieve data efficiently.
+Project Purpose
 
-Main Tables and Relationships:
+The purpose of this project is to showcase how data can be organized and related within tables and to serve as a reference for designing a database schema. By studying the Chinook database schema, developers and database administrators can gain insights into proper schema design techniques and understand how tables can be structured and interconnected to store and retrieve data efficiently.
+
+Main Tables and Relationships
+
 The project focuses on six main tables within the Chinook database:
 
 Employees: Stores employee-related data such as employee ID, name, job title, hierarchy, birth date, hire date, and address. The table includes a primary key on the EmployeeId field.
@@ -25,4 +29,6 @@ Each customer can have multiple invoices (Customers -> Invoices).
 Each invoice can relate to one or more tracks (Invoices -> Tracks).
 Each track belongs to a specific album (Tracks -> Albums).
 Each album is associated with a particular artist (Albums -> Artists).
+Entity-Relationship Diagram (ERD)
+
 This project includes an entity-relationship diagram (ERD) visualizing the relationships between the six main tables. The ERD provides a clear representation of how the tables are structured and interconnected, allowing users to grasp the relationships at a glance.
