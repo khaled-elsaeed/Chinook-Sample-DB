@@ -37,7 +37,3 @@ The relationships between these tables offer a cohesive foundation for data mana
 The project encompasses a meticulously crafted entity-relationship diagram (ERD), visually encapsulating the intricate relationships between the six primary tables. This diagram provides a lucid portrayal of the interconnections and hierarchical structure, enabling users to comprehend the table relationships swiftly and effortlessly. It serves as an indispensable tool for understanding the data model's architecture.
 
 Feel free to explore the project's ERD and the underlying schema to glean insights into the world of relational database design and management.
-
----
-
-*This project description is aimed at conveying the essence of the Chinook Database Schema Example project. You can adapt and expand upon this description to suit your project's unique aspects and goals.*
